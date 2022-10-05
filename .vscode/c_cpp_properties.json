@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/include/**",
+                "/home/max/Documents/projects/exploration_2d/mpc_obstacles/venv/lib/python3.8/site-packages/pybind11/include",
+                "/usr/include/**",
+                "${workspaceFolder}/pybind11/include",
+                "${workspaceFolder}/pybind11/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
